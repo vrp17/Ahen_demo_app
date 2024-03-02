@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TrialApp</string>
+    <string name="login">Login</string>
+    <string name="drivesync_scheduler">DriveSync Scheduler</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="signin" />
+    <string name="Signin" />
+    <string name="sign_out">Sign Out</string>
+    <string name="book_now">BOOK NOW</string>
+    <string name="insure_now">INSURE NOW</string>
+    <string name="start_now">START NOW</string>
+    <string name="booking_tab">BOOKING TAB</string>
+    <string name="insurance_tab">INSURANCE TAB</string>
+    <string name="license_tab">LICENSE TAB</string>
+    <string name="update_now">UPDATE NOW</string>
+</resources>
